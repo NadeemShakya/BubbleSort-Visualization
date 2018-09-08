@@ -10,7 +10,7 @@ This is a visualization of a classic sorting algorithm - BUBBLE SORT using JavaS
   It is one of the simplest sorting algorithm which compares two elements in the list and sorts then accordingly.
   In each iteration the largest(or smallest) element bubbles upto the top and hence referred as Bubble Sort. The sorting happens until all the elements in the list are sorted. <br>
   It has the worst case time complexity of O(n * n). <br>
-  It is an inplace sorting algorithm.
+  It is an inplace sorting algorithm. <br>
   <i> References 
   <a href = 'https://www.geeksforgeeks.org/bubble-sort/' > Bubble Sort - Geeks for Geek <a>
   <br>
