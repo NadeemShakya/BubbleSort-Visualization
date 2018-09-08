@@ -11,7 +11,7 @@ This is a visualization of a classic sorting algorithm - BUBBLE SORT using JavaS
   In each iteration the largest(or smallest) element bubbles upto the top and hence referred as Bubble Sort. The sorting happens until all the elements in the list are sorted. <br>
   It has the worst case time complexity of O(n * n). <br>
   It is an inplace sorting algorithm. <br>
-  <i> References 
+  <i> References <br>
   <a href = 'https://www.geeksforgeeks.org/bubble-sort/' > Bubble Sort - Geeks for Geek <a>
   <br>
   <a href = 'https://en.wikipedia.org/wiki/Bubble_sort' > Bubble Sort - Wikipedia </a>
